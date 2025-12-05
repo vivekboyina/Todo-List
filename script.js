@@ -31,4 +31,5 @@ function display()
     res+=`${j + 1} : ${todo[j]}<br>`;
   }
   document.getElementById("ans").innerHTML = res;
+
 }
