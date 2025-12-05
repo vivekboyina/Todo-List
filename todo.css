@@ -1,0 +1,26 @@
+*{
+    color: white;
+    background-color: rgb(54, 53, 53);
+}
+body{
+    text-align: center;
+}
+body > h1{
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-size: 40px;
+}
+button{
+    color: white;
+    background-color: rgb(16, 16, 213);
+    height: 30px;
+    width: 100px;
+    text-align: center;
+}
+input{
+    height: 30px;
+    width: 300px;
+    text-align: center;
+    align-content: center;
+}
