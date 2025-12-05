@@ -1,0 +1,18 @@
+📝 To-Do List Web Application
+
+I have developed a simple and interactive To-Do List Web Application using HTML, CSS, and JavaScript. This project helps users to efficiently manage their daily tasks by allowing them to add, delete, and update tasks in real time with a clean and user-friendly interface.
+
+The application is designed with responsive styling using CSS and dynamic functionality using JavaScript, ensuring smooth performance and ease of use. It helps improve productivity by keeping tasks organized and easy to access.
+
+🚀 Future Enhancements:
+In future versions, I plan to upgrade this project by:
+
+Adding a user login and authentication system
+
+Connecting it with a database to store tasks securely
+
+Allowing users to access their personal to-do lists from anywhere
+
+Supporting multiple users with separate task records
+
+Once upgraded with login and a database, this application can be used as a personal task manager by anyone.
